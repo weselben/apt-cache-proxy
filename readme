@@ -1,0 +1,4 @@
+wget https://raw.githubusercontent.com/weselben/apt-cache-proxy/main/02proxyhs -P /etc/apt/apt.conf.d/
+
+
+wget https://raw.githubusercontent.com/weselben/apt-cache-proxy/main/02proxy -P /etc/apt/apt.conf.d/
